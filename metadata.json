@@ -1,0 +1,6 @@
+{
+  "name": "ShiftMate – Smart Manpower Scheduling & Temporary Staff Hiring Platform",
+  "description": "Smart staff scheduling, automated manpower shortage detection, and on-demand temporary staff hiring for Singapore F&B and retail businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
